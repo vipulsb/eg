@@ -26,12 +26,12 @@ LOG_LEVEL=debug
 In your terminal, please run
 
 ```bash
-
+$ npm i
 $ npm run build
 $ docker compose up --build
 ```
 
-- This will setup all the dependencies and run the application on the port 3000.
+- This will setup all the dependencies and run the application on the port 3000: http://localhost:3000
 
 ## Test
 
